@@ -2,8 +2,8 @@ const http = require("http");
 
 // Your two deployed app URLs from Render:
 const servers = [
-  "https://web01-aime.onrender.com/",
-  "https://web02-aime.onrender.com/"
+  "https://web01-pascaline.onrender.com/",
+  "https://web02-pascaline.onrender.com/"
 ];
 
 let current = 0;
